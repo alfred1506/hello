@@ -1,1 +1,1 @@
-pust "Hello, World!!!2"
+pust "Hello, World!!!2  6666  777"
